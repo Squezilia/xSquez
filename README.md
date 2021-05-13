@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xSquez
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning Node.JS
+- 📫 You can reach me on canm benim squezim#0031
