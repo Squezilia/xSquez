@@ -49,7 +49,7 @@ while 1:
                               |___/      
     {Fore.RESET_ALL}Sms: {}               by {Fore.LIGHTCYAN_EX}@tingirifistik
     {Fore.RESET_ALL}Call: {}              edit {Fore.LIGHTRED_EX}@xSquez\n  
-    """
+    """)
     try:
         menu = int(input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder\n 2- Ara\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
     except ValueError:
