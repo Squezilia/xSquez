@@ -38,7 +38,7 @@ for attribute in dir(SendSms):
 
 while 1:
     system("cls||clear")
-    print(f"""{Fore.LIGHTCYAN_EX}
+    print("""{}
      ______                         _     
     |  ____|                       | |    
     | |__   _ __   ___  _   _  __ _| |__  
@@ -47,9 +47,9 @@ while 1:
     |______|_| |_|\___/ \__,_|\__, |_| |_|
                                __/ |      
                               |___/      
-    {Fore.RESET_ALL}Sms: {}               by {Fore.LIGHTCYAN_EX}@tingirifistik
-    {Fore.RESET_ALL}Call: {}              edit {Fore.LIGHTRED_EX}@xSquez\n  
-    """)
+    {}Sms: {}               by {}@tingirifistik
+    {}Call: {}               edit {}@xSquez\n  
+    """.format(Fore.LIGHTCYAN_EX, Style.RESET_ALL, len(servisler_sms), Fore.LIGHTCYAN_EX, Style.RESET_ALL, len(servisler_call), Fore.LIGHTRED_EX))
     try:
         menu = int(input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder\n 2- Ara\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
     except ValueError:
