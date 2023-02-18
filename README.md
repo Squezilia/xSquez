@@ -11,6 +11,6 @@ let user_data = {
 ```
 
 <h1 align="center" style="margin-top: 0px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=xsquez&hide=contribs,prs&theme=nightowl" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsquez&layout=compact&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xsquez&hide=contribs,prs&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsquez&layout=compact&theme=material-palenight" />
 </h1>
